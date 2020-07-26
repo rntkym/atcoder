@@ -1,2 +1,2 @@
 # atcoder
-My answers for AtCoder problems.
+Atcoderで解いた問題の回答
